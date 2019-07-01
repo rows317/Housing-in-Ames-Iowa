@@ -11,7 +11,7 @@ My goal is to filter out those features that make the most difference, in contex
 
 ## Relevant Files
 * [Datasets] (https://git.generalassemb.ly/Rose-TesorieroMontoya/project_2/tree/master/datasets)
-* [Code Notebook] (
+* [Code Notebook] (https://git.generalassemb.ly/Rose-TesorieroMontoya/project_2/tree/master/code)
 * [Slides] (https://docs.google.com/presentation/d/1MM3tVLN0oCN3TYF456SoIycP0dxYaI6Xppbsx8q8hGM/edit?usp=sharing)    
 
 ## Executive Summary
