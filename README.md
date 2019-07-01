@@ -10,9 +10,9 @@ Real estate agents and developers must figure out what attributes of a home make
 My goal is to filter out those features that make the most difference, in context with the city, to identify where people want to live - and why.    
 
 ## Relevant Files
-* Datasets(https://git.generalassemb.ly/Rose-TesorieroMontoya/project_2/tree/master/datasets)
-* Code Notebook (
-* Slides (https://docs.google.com/presentation/d/1MM3tVLN0oCN3TYF456SoIycP0dxYaI6Xppbsx8q8hGM/edit?usp=sharing)    
+* [Datasets] (https://git.generalassemb.ly/Rose-TesorieroMontoya/project_2/tree/master/datasets)
+* [Code Notebook] (
+* [Slides] (https://docs.google.com/presentation/d/1MM3tVLN0oCN3TYF456SoIycP0dxYaI6Xppbsx8q8hGM/edit?usp=sharing)    
 
 ## Executive Summary
   Given such an extensive dataset, my first step was to make sense of all the columns. Using the data description, I was able to determine what each feature was and how the imput values translated to real life homes.<br>
@@ -28,12 +28,19 @@ My goal is to filter out those features that make the most difference, in contex
   ## Conclusions/Recommendation
     Despite my interest in the effect of crime rate on neighborhood desirability and therefore on home value, my model showed other variables of much more significance:    
     
- * Newer properties (later “Year Built” dates) will have greater value
+* Newer properties (later “Year Built” dates) will have greater value
 * Homes designated “Higher Quality” will also have greater value
 * Home size, on the ground floor is, related to higher value
 * However, when a basement’s finished square footage is greater than half its overall square footage, home value decreases
 * Neighborhoods in which homes are sold for higher prices tend to be in lower crime areas
-* Neighborhoods that negatively affected sale price are those with slightly more crime
+* Neighborhoods that negatively affected sale price are those with slightly more crime    
+
+## Source Documentation
+
+* ["In This Town, You Apply for a Job and You Get It", NPR] (https://www.npr.org/2019/05/23/721086615/in-this-town-you-apply-for-a-job-and-you-get-it)
+* [Residential Map of Ames] (http://jse.amstat.org/v19n3/decock/AmesResidential.pdf)
+* [Neighborhood Scout - Crime Rates in Ames, Iowa] (https://www.neighborhoodscout.com/ia/ames/crime)
+* [Spot Crime - Recent Crime in Ames, Iowa - Interactive Map] (https://spotcrime.com/ia/ames)
 
   
  
