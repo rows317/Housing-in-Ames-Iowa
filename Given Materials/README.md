@@ -10,9 +10,9 @@ Real estate agents and developers must figure out what attributes of a home make
 My goal is to filter out those features that make the most difference, in context with the city, to identify where people want to live - and why.    
 
 ## Relevant Files
-* [Datasets] (https://git.generalassemb.ly/Rose-TesorieroMontoya/project_2/tree/master/datasets)
-* [Code Notebook] (https://git.generalassemb.ly/Rose-TesorieroMontoya/project_2/tree/master/code)
-* [Slides] (https://docs.google.com/presentation/d/1MM3tVLN0oCN3TYF456SoIycP0dxYaI6Xppbsx8q8hGM/edit?usp=sharing)    
+* [Datasets](https://git.generalassemb.ly/Rose-TesorieroMontoya/project_2/tree/master/datasets)
+* [Code Notebook](https://git.generalassemb.ly/Rose-TesorieroMontoya/project_2/tree/master/code)
+* [Slides](https://docs.google.com/presentation/d/1MM3tVLN0oCN3TYF456SoIycP0dxYaI6Xppbsx8q8hGM/edit?usp=sharing)    
 
 ## Executive Summary
   Given such an extensive dataset, my first step was to make sense of all the columns. Using the data description, I was able to determine what each feature was and how the imput values translated to real life homes.<br>
