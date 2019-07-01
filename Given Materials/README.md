@@ -26,7 +26,7 @@ My goal is to filter out those features that make the most difference, in contex
   Using data from US census, Ames' website, and an interactive crime report map of the city, I was able to identify that those neighborhoods seen as most desirable had far fewer reported crimes than those neighborhoods that appeared to have a negative correlation to home value.     
   
   ## Conclusions/Recommendation
-    Despite my interest in the effect of crime rate on neighborhood desirability and therefore on home value, my model showed other variables of much more significance:    
+   Despite my interest in the effect of crime rate on neighborhood desirability and therefore on home value, my model showed other variables of much more significance:    
     
 * Newer properties (later “Year Built” dates) will have greater value
 * Homes designated “Higher Quality” will also have greater value
@@ -37,10 +37,10 @@ My goal is to filter out those features that make the most difference, in contex
 
 ## Source Documentation
 
-* ["In This Town, You Apply for a Job and You Get It", NPR] (https://www.npr.org/2019/05/23/721086615/in-this-town-you-apply-for-a-job-and-you-get-it)
-* [Residential Map of Ames] (http://jse.amstat.org/v19n3/decock/AmesResidential.pdf)
-* [Neighborhood Scout - Crime Rates in Ames, Iowa] (https://www.neighborhoodscout.com/ia/ames/crime)
-* [Spot Crime - Recent Crime in Ames, Iowa - Interactive Map] (https://spotcrime.com/ia/ames)
+* ["In This Town, You Apply for a Job and You Get It", NPR](https://www.npr.org/2019/05/23/721086615/in-this-town-you-apply-for-a-job-and-you-get-it)
+* [Residential Map of Ames](http://jse.amstat.org/v19n3/decock/AmesResidential.pdf)
+* [Neighborhood Scout - Crime Rates in Ames, Iowa](https://www.neighborhoodscout.com/ia/ames/crime)
+* [Spot Crime - Recent Crime in Ames, Iowa - Interactive Map](https://spotcrime.com/ia/ames)
 
   
  
