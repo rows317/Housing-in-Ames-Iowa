@@ -10,8 +10,8 @@ Real estate agents and developers must figure out what attributes of a home make
 My goal is to filter out those features that make the most difference, in context with the city, to identify where people want to live - and why.    
 
 ## Relevant Files
-* [Datasets](https://git.generalassemb.ly/Rose-TesorieroMontoya/project_2/tree/master/datasets)
-* [Code Notebook](https://git.generalassemb.ly/Rose-TesorieroMontoya/project_2/tree/master/code)
+* [Datasets](https://github.com/rows317/Project2---Housing-in-Ames-Iowa/tree/master/datasets)
+* [Code Notebook](https://github.com/rows317/Project2---Housing-in-Ames-Iowa/blob/master/code/Project2-Copy2.ipynb)
 * [Slides](https://docs.google.com/presentation/d/1MM3tVLN0oCN3TYF456SoIycP0dxYaI6Xppbsx8q8hGM/edit?usp=sharing)    
 
 ## Executive Summary
