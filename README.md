@@ -12,7 +12,7 @@ My goal is to filter out those features that make the most difference, in contex
 ## Relevant Files
 * [Datasets](https://github.com/rows317/Project2---Housing-in-Ames-Iowa/tree/master/datasets)
 * [Code Notebook](https://github.com/rows317/Project2---Housing-in-Ames-Iowa/blob/master/code/Project2-Copy2.ipynb)
-* [Slides](https://docs.google.com/presentation/d/1MM3tVLN0oCN3TYF456SoIycP0dxYaI6Xppbsx8q8hGM/edit?usp=sharing)    
+* [Slides](https://docs.google.com/presentation/d/1MM3tVLN0oCN3TYF456SoIycP0dxYaI6Xppbsx8q8hGM/edit?usp=sharing)
 
 ## Executive Summary
   Given such an extensive dataset, my first step was to make sense of all the columns. Using the data description, I was able to determine what each feature was and how the imput values translated to real life homes.<br>
@@ -41,6 +41,9 @@ My goal is to filter out those features that make the most difference, in contex
 * [Residential Map of Ames](http://jse.amstat.org/v19n3/decock/AmesResidential.pdf)
 * [Neighborhood Scout - Crime Rates in Ames, Iowa](https://www.neighborhoodscout.com/ia/ames/crime)
 * [Spot Crime - Recent Crime in Ames, Iowa - Interactive Map](https://spotcrime.com/ia/ames)
+
+## Samples
+![Image of Graphs](https://github.com/rows317/Project2---Housing-in-Ames-Iowa/blob/master/code/ames_samp.jpg)
 
   
  
